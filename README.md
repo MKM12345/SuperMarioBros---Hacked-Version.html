@@ -1,2 +1,4 @@
 # SuperMarioBros---Hacked-Version.html
-A game of Super Mario bros.
+PLEASE read the LISENCE before copying.
+
+Compiled from scratch.
